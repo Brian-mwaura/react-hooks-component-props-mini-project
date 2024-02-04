@@ -1,7 +1,6 @@
 import "@testing-library/jest-dom";
 import { render } from "@testing-library/react";
-// Change this line
-import ArticleList from './ArticleList'; 
+import ArticleList from "../components/ArticleList";
 
 const posts = [
   {
